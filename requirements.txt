@@ -1,8 +1,0 @@
-numpy
-matplotlib
-Pillow
-scikit-learn
-seaborn
-torch
-torchvision
-tqdm

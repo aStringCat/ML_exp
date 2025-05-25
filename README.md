@@ -1,5 +1,5 @@
 # ML-MLP
 
-多层感知机的手写数字识别
+分别包含MLP，CNN，RNN，不提供数据集
 
 使用设备：`MacBook Air m4 16G`
